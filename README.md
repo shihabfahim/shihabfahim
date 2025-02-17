@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![shihabfahim's Stats](https://github-readme-stats.vercel.app/api?username=shihabfahim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![shihabfahim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shihabfahim&theme=vue-dark&hide_border=true)
+![shihabfahim's Stats](https://github-readme-stats.vercel.app/api?username=shihabfahim&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![shihabfahim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shihabfahim&theme=vue-dark&hide_border=true)
 
 ![shihabfahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabfahim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
